@@ -1,1 +1,4 @@
-
+Exercise 4:
+Write a function, f4, to
+find the sum of all the multiples of a or b below n.
+a,b,n are function parameters
